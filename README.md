@@ -35,18 +35,6 @@ Here are the technologies and tools I'm comfortable working with:
 ```
 
 ```bash
-> $ nano learning.md
-```
-
-```
-🌱 Currently Learning
-
-  - Node.js
-  - TypeScript
-  - Vue.js
-```
-
-```bash
 > $ nano connect.md
 ```
 
@@ -59,12 +47,4 @@ Here are the technologies and tools I'm comfortable working with:
   - Email: Charmante@caramello.space
 
 Feel free to reach out if you want to discuss programming, collaborate on projects, or just have a good old chat about the latest tech trends.
-```
-
-```bash
-> $ nano ps.md
-```
-
-```
-P.S. Drop a star ⭐ on any of my repositories if you find them interesting!
 ```
