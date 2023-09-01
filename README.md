@@ -30,7 +30,7 @@ Here are the technologies and tools I'm comfortable working with:
 
   - 🌐 Languages: Typescript, Javascript, HTML, CSS
   - ⚙️ Backend: Node.js, Express.js, Passport.js
-  - 🖌️ Frontend: Vue.js, Sass, Bootstrap
+  - 🖌️ Frontend: Vue.js, Nuxt.js, Sass, Bootstrap
   - 💾 Databases: MongoDB
 ```
 
