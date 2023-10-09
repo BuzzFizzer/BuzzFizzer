@@ -1,23 +1,28 @@
 ```bash
-> neofetch
+> $ neofetch
 ```
 
-```
-    ██████████████████  ████████   Caramello@epoch
-    ██████████████████  ████████   -------------------
-    ██████████████████  ████████   OS: Manjaro Linux x86_64
-    ██████████████████  ████████   Host: Arch-Keeps-Breaking
-    ████████            ████████   Kernel: 6.4.9-1-MANJARO
-    ████████  ████████  ████████   Uptime: 9 hours, 27 mins
-    ████████  ████████  ████████   Packages: 1285 (pacman)
-    ████████  ████████  ████████   Shell: bash 5.1.16
-    ████████  ████████  ████████   Resolution: 1920x1080
-    ████████  ████████  ████████   DE: Plasma 5.27.7
-    ████████  ████████  ████████   WM: kwin
-    ████████  ████████  ████████   Theme: [Plasma], Breeze [GTK2/3]
-    ████████  ████████  ████████   Icons: [Plasma], breeze [GTK2/3]
-    ████████  ████████  ████████   Terminal: konsole
-```
+`````
+                   -`
+                  .o+`
+                 `ooo/
+                `+oooo:
+               `+oooooo:
+               -+oooooo+:                caramello@Epoch
+             `/:-:++oooo+:               ---------------
+            `/++++/+++++++:
+           `/++++++++++++++:             OS: Arch Linux x86_64
+          `/+++ooooooooooooo/`           Kernel: 6.5.6-arch2-1
+         ./ooosssso++osssssso+`          Packages: 857 (pacman), 26 (flatpak)
+        .oossssso-````/ossssss+`         Editor: visual-studio-code-bin
+       -osssssso.      :ssssssso.        DE: Plasma 5.27.8
+      :osssssss/        osssso+++.       Terminal: konsole
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+`````
 
 ```bash
 > $ nano tech-tools.md
@@ -46,5 +51,5 @@ Here are the technologies and tools I'm comfortable working with:
   - Twitter: @hephfte - https://twitter.com/hephfte
   - Email: Charmante@caramello.space
 
-Feel free to reach out if you want to discuss programming, collaborate on projects, or just have a good old chat about the latest tech trends.
+Feel free to reach out if you want to discuss programming, collaborate on projects, or just have a chat.
 ```
