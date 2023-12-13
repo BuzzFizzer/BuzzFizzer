@@ -12,12 +12,12 @@
              `/:-:++oooo+:               ---------------
             `/++++/+++++++:
            `/++++++++++++++:             OS: Arch Linux x86_64
-          `/+++ooooooooooooo/`           Kernel: 6.5.6-arch2-1
-         ./ooosssso++osssssso+`          Packages: 857 (pacman), 26 (flatpak)
-        .oossssso-````/ossssss+`         Editor: visual-studio-code-bin
-       -osssssso.      :ssssssso.        DE: Plasma 5.27.8
-      :osssssss/        osssso+++.       Terminal: konsole
-     /ossssssss/        +ssssooo/-
+          `/+++ooooooooooooo/`           Kernel: 6.6.6-zen1-1-zen
+         ./ooosssso++osssssso+`          Packages: 1116 (pacman), 23 (flatpak)
+        .oossssso-````/ossssss+`         Editor: vscodium-bin
+       -osssssso.      :ssssssso.        Shell: bash 5.2.21
+      :osssssss/        osssso+++.       Terminal: termite
+     /ossssssss/        +ssssooo/-       WM: i3
    `/ossssso+/:-        -:/+osssso+-
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
