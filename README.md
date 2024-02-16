@@ -8,17 +8,17 @@
                  `ooo/
                 `+oooo:
                `+oooooo:
-               -+oooooo+:                caramello@Epoch
-             `/:-:++oooo+:               ---------------
-            `/++++/+++++++:
-           `/++++++++++++++:             OS: Arch Linux x86_64
-          `/+++ooooooooooooo/`           Kernel: 6.6.6-zen1-1-zen
-         ./ooosssso++osssssso+`          Packages: 1116 (pacman), 23 (flatpak)
-        .oossssso-````/ossssss+`         Editor: vscodium-bin
-       -osssssso.      :ssssssso.        Shell: bash 5.2.21
-      :osssssss/        osssso+++.       Terminal: termite
-     /ossssssss/        +ssssooo/-       WM: i3
-   `/ossssso+/:-        -:/+osssso+-
+               -+oooooo+:                 : caramello@epoch 
+             `/:-:++oooo+:               ┌──────────────────────────────────────────┐ 
+            `/++++/+++++++:                 OS : Arch Linux x86_64 
+           `/++++++++++++++:                Kernel : 6.7.4-arch1-1 
+          `/+++ooooooooooooo/`              Packages : 934 (pacman) 
+         ./ooosssso++osssssso+`             Resolution : 2560 x 1440
+        .oossssso-````/ossssss+`            DE : Hyprland 
+       -osssssso.      :ssssssso.          ﬙ Editor: vscodium-bin
+      :osssssss/        osssso+++.          Terminal : kitty 
+     /ossssssss/        +ssssooo/-       └──────────────────────────────────────────┘ 
+   `/ossssso+/:-        -:/+osssso+-               ​ ​​ ​​​ ​​ ​​​ ​​ ​​​ ​​ ​​​ ​​ ​​​ ​​ ​​​ ​​ ​​​ ​​ ​​         
   `+sso+:-`                 `.-/+oso:
  `++:.                           `-/+/
  .`                                 `/
