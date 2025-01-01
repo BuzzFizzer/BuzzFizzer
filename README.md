@@ -49,7 +49,7 @@ Here are the technologies and tools I'm comfortable working with:
   - Discord: Caramello - https://discord.com/users/454590681948880916
   - Steam: Caramello - https://steamcommunity.com/id/Charment
   - Twitter: @hephfte - https://twitter.com/hephfte
-  - Email: Charmante@caramello.space
+  - Email: kuronekoisone@gmail.com
 
 Feel free to reach out if you want to discuss programming, collaborate on projects, or just have a chat.
 ```
